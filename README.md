@@ -1,0 +1,2 @@
+# moku.uz
+pasha lox
